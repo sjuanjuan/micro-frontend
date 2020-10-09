@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e214b4a7-7aa6-40e5-8d42-740905540641" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app1" beforeDir="false" afterPath="$PROJECT_DIR$/app1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app1/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app1/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2" beforeDir="false" afterPath="$PROJECT_DIR$/app2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app2/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app2/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout" beforeDir="false" afterPath="$PROJECT_DIR$/layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/layout/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/layout/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layout/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app1" />
+  </component>
+  <component name="ProjectId" id="1icuILG0J9n55Ism1FIdNY87jat" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../elementui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e214b4a7-7aa6-40e5-8d42-740905540641" name="Default Changelist" comment="" />
+      <created>1602219120726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602219120726</updated>
+      <workItem from="1602219126962" duration="4184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602225496578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602225496578" />
+  </component>
+</project>
